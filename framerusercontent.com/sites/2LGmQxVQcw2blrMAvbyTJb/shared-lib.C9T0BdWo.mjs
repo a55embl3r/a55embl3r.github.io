@@ -1,2 +1,0 @@
-import{t as e}from"./rolldown-runtime.dqzIrg9r.mjs";function t(e,t){return{description:`𝔠𝔬𝔪𝔢 𝔞𝔫𝔡 𝔰𝔞𝔶 𝔥𝔢𝔩𝔩𝔬`,favicon:`https://framerusercontent.com/assets/MeZvgAhjQkji5BHrYomjb5R43pM.png`,robots:`max-image-preview:large`,title:`♱ 𝕵𝖎𝖒𝖎 𝕭𝖔𝖘𝖜𝖊𝖑𝖑 ♱`}}var n=e((()=>{}));export{t as n,n as t};
-//# sourceMappingURL=shared-lib.C9T0BdWo.mjs.map
